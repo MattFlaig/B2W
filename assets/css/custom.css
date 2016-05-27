@@ -401,7 +401,8 @@ footer li.signup-link a:hover {
 }
 
 .post header,
-.post .post-excerpt {
+.post .post-excerpt,
+.post .post-body {
         padding: 20px;
 }
 
